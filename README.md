@@ -1,2 +1,2 @@
 # first
-This is a description.
+This is my first repository for happyjonychen.
